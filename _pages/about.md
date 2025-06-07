@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Haoxuan Luo"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,6 +12,8 @@ I am a Ph.D. student in the Department of ECE at the University of Virginia, whe
 My research interests lie at the intersection of Data Compression, Information Theory, and Machine Learning. I am particularly interested in understanding the fundamental limits of data representation and exploring learning-based approaches to efficient communication and storage.
 
 Prior to UVA, I received my Bachelor’s degree in Communication Engineering from Sichuan University, China.
+
+[Email](ayr7tb@virginia.edu)
 
 A data-driven personal website
 ======
