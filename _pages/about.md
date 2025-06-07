@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Fall 2024. I am fortunate to be advised by Professor [Farzad Farnoud][https://fhfarnoud.github.io/index.html] in the [Information Processing and Storage Lab][https://ipsl.github.io/].
+
+My research interests lie at the intersection of Data Compression, Information Theory, and Machine Learning. I am particularly interested in understanding the fundamental limits of data representation and exploring learning-based approaches to efficient communication and storage.
+
+Prior to UVA, I received my Bachelor’s degree in Communication Engineering from Sichuan University, China.
 
 A data-driven personal website
 ======
