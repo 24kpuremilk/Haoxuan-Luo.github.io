@@ -14,3 +14,6 @@ My research interests lie at the intersection of Data Compression, Information T
 Prior to UVA, I received my Bachelor’s degree in Communication Engineering from Sichuan University, China.
 
 Email: [ayr7tb@virginia.edu](ayr7tb@virginia.edu)
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2NPeWusp3SRgoepGO8icgRGRglQ0yQv2MgVRmVtQ4kw&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1c6jf"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=2NPeWusp3SRgoepGO8icgRGRglQ0yQv2MgVRmVtQ4kw&cl=ffffff" /></a>
